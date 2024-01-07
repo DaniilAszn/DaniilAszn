@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">Student at RTU MIREA. Specialty - applied mathematics (data science)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniilaszn&label=Profile%20views&color=0e75b6&style=flat" alt="daniilaszn" /> </p>
-
 - I am currently studying **machine learning, statistics and big data**
 
 - My main love is **mathematics**
