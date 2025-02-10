@@ -15,6 +15,9 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h3> 📊 GitHub Stats: </h3>
+<h3> 👨‍💻 About me </h3>
+Hi! I am a student of RTU MIREA, specialty - applied mathematics. Here I share my educational materials and projects related to mathematical modeling, data analysis, etc.
+
+<h3> 📊 GitHub statistics: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilaszn&show_icons=true&locale=en&layout=compact" alt="daniilaszn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniilaszn&" alt="daniilaszn" /></p>
