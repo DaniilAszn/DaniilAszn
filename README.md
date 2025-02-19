@@ -6,7 +6,7 @@ Hi! I am a student of RTU MIREA, specialty - applied mathematics. I'm interested
 
 ## 💪 Skills: 
 - **IT**: Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn), SQL, Power BI, Excel, Markdown
-- **Professional**: Applied statistics, Machine learning, Visualization methods
+- **Professional**: Applied statistics, Visualization methods, Machine learning, Deep learning 
 - **Interests**: Data analysis, Teaching
 
 ## 📊 GitHub statistics:
