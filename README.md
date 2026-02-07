@@ -2,11 +2,16 @@
 <h1 align="center">Daniil Adamov</h1>
 
 ## 🧑 About me: 
-Hi! I am a student at the Higher School of Economics (specialty - applied mathematics and informatics), intern at Mars and an data analyst at Skillra (career and job market navigator). I'm interested in data science and its mathematical background. Here I share my educational materials and projects related to mathematical modeling, data analysis, etc.
+Hi! My name is Daniil and I'm interested in data science and its mathematical background. Here I share my educational materials and projects related to mathematical modeling, data analysis, etc.
+
+## Few facts about me:
+- Student at the Higher School of Economics (specialty - applied mathematics and informatics)
+- Intern at Mars (department of digital technologies)
+- Data analyst at Skillra (career and job market navigator)
 
 ## 💪 Skills: 
-- **IT**: Python, Excel, SQL, Power BI, Airflow, Docker, Markdown
-- **Professional**: Applied statistics, AB-testing, Visualization methods, Classic Machine learning
+- **IT**: Python, Excel, SQL, Power BI, Airflow, Markdown
+- **Professional**: Applied statistics, Machine learning, Product analytics
 - **Interests**: Data analysis, Teaching
 
 ## 📊 GitHub statistics:
