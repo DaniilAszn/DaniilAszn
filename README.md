@@ -10,8 +10,8 @@ Hi! My name is Daniil and I'm interested in data science and its mathematical ba
 - Data analyst at Skillra (career and job market navigator)
 
 ## Skills: 
-- **IT**: Python, Excel, SQL, Power BI, Airflow, Markdown
-- **Professional**: Applied statistics, Machine learning, Product analytics
+- **IT**: Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, FastAPI, Streamlit), Excel, SQL (PostgreSQL), Power BI, Markdown
+- **Professional**: Applied statistics, Classic ML
 - **Interests**: Data analysis, Teaching
 
 ## GitHub statistics:
